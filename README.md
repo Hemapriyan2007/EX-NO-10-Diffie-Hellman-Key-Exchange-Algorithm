@@ -59,7 +59,8 @@ int main() {
 
 ## Output:
 
-![Screenshot 2025-05-08 081825](https://github.com/user-attachments/assets/937c890e-2818-48c6-bce3-123988af9aa4)
+![image](https://github.com/user-attachments/assets/93af582a-81f1-4465-b48d-d7ba216753f9)
+
 
 
 ## Result:
